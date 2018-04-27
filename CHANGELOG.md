@@ -1,3 +1,7 @@
+## Release 1.1.0
+
+* d7e1bd9 [feature] Support OpenBSD 6.3, drop EoLed releases (#3)
+
 ## Release 1.0.2
 
 * 9a7df8f [bugfix] QA and add more platform versions (#1)
